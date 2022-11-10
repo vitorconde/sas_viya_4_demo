@@ -1,0 +1,13 @@
+Name,SASColumnType,ReadFlag,Desc,SASFormat,SASInformat
+Sexo,C,Y,"Sexo",,
+ID,N,Y,"ID",BEST12.,BEST32.
+Regiao,N,Y,"",,
+Engaj,N,Y,"Engaj",BEST12.,BEST32.
+Idade,N,Y,"Idade",BEST12.,BEST32.
+Regiao_int,C,Y,"Regiao_int",,
+Tipo_Cliente,N,Y,"Tipo_Cliente",BEST12.,BEST32.
+Total_gasto,N,Y,"Total_gasto",BEST12.,BEST32.
+Tempo_relacionamento,N,Y,"Tempo_relacionamento",BEST12.,BEST32.
+Campanha,N,Y,"Campanha",BEST12.,BEST32.
+Status,C,Y,"Status",,
+email,C,Y,"email",,
